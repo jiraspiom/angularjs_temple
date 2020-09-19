@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "angular": "^1.8.0"
+  },
+  "name": "angular",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server ./app -a localhost -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
