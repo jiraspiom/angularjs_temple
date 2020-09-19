@@ -1,5 +1,7 @@
-$npm install --save 
+$npm install --save
+
 $npm install -g http-server
- `$http-server`
- 
- $npm init
+
+`$http-server` 
+
+$npm init
